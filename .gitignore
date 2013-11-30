@@ -206,6 +206,9 @@ UDKGame/Content/Maps/UT3/
 UDKGame/Content/Maps/Showcases/
 UDKGame/Content/Maps/Mobile/
 UDKGame/Content/Maps/UT3/Examples/
+UDKGame/Content/Shared/
+UDKGame/Content/Mobile/
+UDKGame/Content/Maps/Examples/
 
 .installed.cfg
 
